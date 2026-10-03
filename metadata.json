@@ -1,0 +1,6 @@
+{
+  "name": "AjasiaGO - Multi-Category Online Shopping India",
+  "description": "Premium multi-category e-commerce platform in India featuring electronics, fashion, lifestyle, home decor, fast delivery, and authentic customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
